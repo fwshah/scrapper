@@ -1,0 +1,3 @@
+-- Streamlit running issue , every time I have new VB termila
+venv\Scripts\activate
+pip install streamlit
